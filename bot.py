@@ -173,7 +173,7 @@ def main():
     while True:
         console.clear()
         console.print(Panel.fit(
-            "[bold cyan]🚀 R2 Testnet Auto\n[green]By ADFMIND TEAM[/green]\n[link=https://t.me/AirdropFamilyIDN ]Join Telegram[/link]",
+            "[bold cyan]🚀 R2 Testnet Auto\n[green]By AEZ Haltlizer[/green]\n[link=https://t.me/Rifkichrll ]Join Telegram[/link]",
             title="🔥 Welcome",
             subtitle="Testnet Tools"))
         
